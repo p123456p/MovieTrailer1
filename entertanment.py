@@ -38,5 +38,6 @@ Jurassic_World = media.Movie("Jurassic_World",
                              "f8UOY1yp9n7anzoXtm8XD8Pw",
                              "https://youtu.be/RFinNxS5KN4")
 """We are using an Array of objects of movie"""
+""" Here We are having a number of movies"""
 movies = [Bad_Boys, Rush_Hour, Star_Wars, Jurassic_World]
 fresh_tomatoes.open_movies_page(movies)
