@@ -8,3 +8,5 @@ My solution for Item Movie Trailer project from Udacity's Full Stack Development
  Entertanment file consist of array movies.
  Media file consist of class movie.
  There is another file name -Tomatoes.py
+…or push an existing repository from the command line
+
